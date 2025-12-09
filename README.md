@@ -1,6 +1,6 @@
 Security in the Healthcare Industry
 
-Project 8 – Cybersecurity Implementation & Simulation
+Project 8, Cybersecurity Implementation & Simulation
 
 This project demonstrates how to build and test a secure remote healthcare environment by implementing multiple cybersecurity layers. It includes both theoretical analysis and practical simulations performed in an isolated VMware lab.
 
@@ -65,4 +65,4 @@ Event Viewer, Windows Firewall logs, and Resource Monitor were used to identify 
 
 # Summary & Conclusion #
 
-This project successfully demonstrates how layered security—such as RBAC, VPN tunneling, MFA, segmentation, phishing awareness, and system monitoring—can significantly strengthen the cybersecurity posture of remote healthcare environments. Even with limited tools, the practical simulations show how essential these defenses are in protecting healthcare infrastructures from modern cyber threats.
+This project successfully demonstrates how layered security such as RBAC, VPN tunneling, MFA, segmentation, phishing awareness, and system monitoring can significantly strengthen the cybersecurity posture of remote healthcare environments. Even with limited tools, the practical simulations show how essential these defenses are in protecting healthcare infrastructures from modern cyber threats.
