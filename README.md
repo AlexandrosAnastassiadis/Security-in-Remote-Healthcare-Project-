@@ -1,6 +1,6 @@
 Security in the Healthcare Industry
 
-Project 8, Cybersecurity Implementation & Simulation
+Project: Cybersecurity Implementation & Simulation
 
 This project demonstrates how to build and test a secure remote healthcare environment by implementing multiple cybersecurity layers. It includes both theoretical analysis and practical simulations performed in an isolated VMware lab.
 
